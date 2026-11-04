@@ -1,5 +1,6 @@
 # housing-compet
 Chayanunt Payapvattanavong
+Sophia chen
 Ames Housing Price Prediction
 
 This project explores house price prediction using the Ames Housing Dataset from Kaggle's Regression for House Prices competition.
